@@ -5,8 +5,8 @@ Zeta games originalmente surgiu com a ideia de ser uma comunidade de marketplace
 
 Criadores da ideia: 
 
-Rogério Kazuo Hamatu Junior 
-Ricardo Henrique de Sousa Brito
+Rogério Kazuo Hamatu Junior,
+Ricardo Henrique de Sousa Brito,
 João Pedro Veiga Machado 
 
 Tecnologias usadas no backend
